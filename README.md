@@ -10,5 +10,7 @@
 ![hummingbird](https://user-images.githubusercontent.com/64548477/93517646-71bc4180-f934-11ea-9f09-f4a4e7545976.png)
 
 # 3-python detect_with_classifier.py --image images/lawn_mower.jpg --size "(200, 200)"
+Resimlerde görüldüğü gibi doğru tespiti yapamadık bu resmimiz için.Fakat sonra ki adımda --min-conf 0.95 kullnarak sistemimizin daha güvenilir tahmin yapmasını sağlayacağız ve sonucu hep birlikte göreceğiz
 
+![lawn_mower](https://user-images.githubusercontent.com/64548477/93518394-6a496800-f935-11ea-96f8-4a3f8100cc39.gif)
 ![lawn_mower](https://user-images.githubusercontent.com/64548477/93518200-2f473480-f935-11ea-92bf-6488e4c9d64c.png)
