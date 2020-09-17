@@ -18,5 +18,5 @@ Resimlerde görüldüğü gibi doğru tespiti yapamadık bu resmimiz için.Fakat
 
 # 4-python detect_with_classifier.py --image images/lawn_mower.jpg --size "(200, 200)" --min-conf 0.95
 Şimdi çıktımıza tekrar bakalım ve tahmin için label'a baktığımız da az önceki gibi half_truck yazısını almadık çünkü güvenilirliği arttırdık.
-
+![lawn_mower_min_conf](https://user-images.githubusercontent.com/64548477/93519359-d5e00500-f936-11ea-9bae-1973b1d2d43e.gif)
 ![lawn_mower_min_conf](https://user-images.githubusercontent.com/64548477/93519085-6cf88d00-f936-11ea-90ce-8b54dc536a8c.png)
