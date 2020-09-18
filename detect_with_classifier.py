@@ -1,3 +1,4 @@
+#Metehan Serçe =>meteserce2@gmail.com
 """görüntü sınıflandırması için eğitilmiş derin bir sinir ağını
 alıp bir nesne algılayıcısına dönüştürmek için kullanalım."""
 
